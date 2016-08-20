@@ -1,4 +1,4 @@
-package com.ldj.spark;
+package com.ldj.spark.post;
 
 public class Post {
 	String title;
